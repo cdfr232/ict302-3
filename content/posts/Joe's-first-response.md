@@ -1,7 +1,7 @@
 ---
 title: "Joe's First Response"
 date: 2022-08-31T22:22:57-07:00
-draft: true
+draft: False
 ---
  For this first responsee, I'm going to look at the md file that I created on my own site. It was a simple process that involved only using the hugo new post command. When you open the file, it will be a .md file and I'll notice off the bat that it's .yaml from the fact that it uses "---" to close and open messages. 
  The attributes were a bit interesting when I was using the -D command. It came up with only four pages and one sitemap, but that is to be expected at the beginning. 
