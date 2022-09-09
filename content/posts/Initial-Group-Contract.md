@@ -5,12 +5,12 @@ draft: false
 ---
 
 Criteria: 
-Visually appealing website 
-Information is organized and makes sense 
-Meet all the assignment requirements 
-Each group member contributes
-Good communication for workdays in class and outside of class 
-Ttimeliness of submission of assignments
+Visually appealing website, 
+Information is organized and makes sense, 
+Meet all the assignment requirements, 
+Each group member contributes,
+Good communication for workdays in class and outside of class, and 
+Timeliness of submission of assignments
 
 A- This would be meeting all the criteria and with some areas excelling. 
 
