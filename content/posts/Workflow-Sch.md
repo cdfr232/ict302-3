@@ -1,7 +1,7 @@
 ---
 title: "Workflow"
 date: 2022-09-14T15:24:36-07:00
-draft: true
+draft: false
 ---
 
 1. Bring concept to the team.
