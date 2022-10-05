@@ -2,3 +2,8 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+[[params.ananke_socials]]
+name = "github.svg"
+url = "https://github.com/cdfr232/ict302-3"
+follow = true
