@@ -9,6 +9,7 @@ url = "https://github.com/cdfr232/ict302-3"
 follow = true
 
 [[params.ananke_socials]]
-name = "Reddit"
+name = "reddit"
 url = "https://www.reddit.com/"
 follow = true
+
