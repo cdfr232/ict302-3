@@ -4,7 +4,7 @@ title = 'My New Hugo Site'
 theme = 'ananke'
 
 [[params.ananke_socials]]
-name = "github.svg"
+name = "github"
 url = "https://github.com/cdfr232/ict302-3"
 follow = true
 
