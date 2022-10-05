@@ -7,3 +7,8 @@ theme = 'ananke'
 name = "github.svg"
 url = "https://github.com/cdfr232/ict302-3"
 follow = true
+
+[[params.ananke_socials]]
+name = "Reddit"
+url = "https://www.reddit.com/"
+follow = true
