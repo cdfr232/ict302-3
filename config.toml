@@ -13,3 +13,8 @@ name = "reddit"
 url = "https://www.reddit.com/"
 follow = true
 
+[taxonomies]
+category = 'categories'
+series = 'series'
+tag = 'tags'
+
