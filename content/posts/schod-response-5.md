@@ -2,7 +2,6 @@
 title: "Schod Response 5"
 date: 2022-09-25T18:58:55-07:00
 draft: false
-tags = 'd'
 ---
 
 - I feel like I can identify concepts such as content which is any medium created for an audience. Content Management is another one I feel comfortable with as it pertains to translating the content into something that people can enjoy as well as streamlining the process.
