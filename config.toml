@@ -13,22 +13,3 @@ name = "reddit"
 url = "https://www.reddit.com/"
 follow = true
 
-[taxonomies]
-category = 'Names'
-series = 'Britt'
-tag = 'a'
-
-[taxonomies]
-category = 'Names'
-series = 'Michael'
-tag = 'b'
-
-[taxonomies]
-category = 'Names'
-series = 'Chris'
-tag = 'c'
-
-[taxonomies]
-category = 'Names'
-series = 'Joe'
-tag = 'd'
