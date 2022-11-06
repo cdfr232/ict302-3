@@ -1,5 +1,5 @@
 ---
-title: "Personal Report Mihcael Kinser 11 6"
+title: "Personal Report Michael Kinser 11 6"
 date: 2022-11-06T16:37:21-05:00
 draft: false
 ---
