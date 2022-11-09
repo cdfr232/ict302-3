@@ -6,7 +6,6 @@ theme = 'ananke'
 [params]
 	AuthorName = 'Chris Frondal, Michael Kinser, Joseph Shodrowski, Britt Strong'
 	Subtitle = 'This website is made in hugo and built to post and hold our weekly personal and group updates on the site development and class activities'
-	commenttoEnable = true
 	featured_image: 'background.jpg'
 
 [[params.ananke_socials]]
