@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Group 3 Wordpress Project Forum'
 theme = 'ananke'
 
 [[params.ananke_socials]]
