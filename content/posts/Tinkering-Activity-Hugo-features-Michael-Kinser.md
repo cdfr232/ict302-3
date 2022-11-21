@@ -1,0 +1,7 @@
+---
+title: "Tinkering Activity Hugo Features Michael Kinser"
+date: 2022-11-16T15:25:47-05:00
+draft: false
+---
+
+There are many things that make Hugo more of a platform rather than the product. The main thing is really just that you have to set it up the way you want to use it for it to work the way you want it too. Hugo is also very open source as there are many different ways to use it and things you can add that others have made or you can even just make you own add-ons. When it comes to technology stacks Hugo is very versatile and allows you to add many different things to the site like social media icons and menus that help with website navigation. Hugo does both Content management and delivery very well because there are ways you organize you content to make it easier on someone using the website, on the other hand this would go along with delivery as this is content that you are presenting to the reader/viewer. I that Hugo can do both efficiently and successfully if you set it up properly. Hugo is something that is installed, you can host it through a service but you also can host it on your own server or even locally to experiment with changes you may be making. With Hugo content vs code features would lean more towards code purely because there are things that cannot be done without code. for changes through code or configuration I would say that the Hugo is more though code because there are things that you cannot do without adding code. 
